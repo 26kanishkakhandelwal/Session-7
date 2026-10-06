@@ -1,90 +1,150 @@
-# 📚 SESSION-07 — AI as a Hint, Not a Solution
+# 🚀 Session 7 — Python Basics
 
-This repository contains the coursework and homework completed as part of **Session 07**.
+Welcome to **Session 7** of my Python learning journey.
 
-The main purpose of this session is to practice problem-solving independently while using **AI as a learning aid and hint**, rather than relying on AI to generate complete solutions.
+This repository contains the programs, practice exercises, and concepts covered during this session. The goal is to strengthen Python fundamentals through hands-on coding rather than just learning concepts theoretically.
+
+---
+
+## 📌 What's Inside?
+
+This repository focuses on practicing Python programming concepts through small, easy-to-understand programs.
+
+### 🐍 Topics Covered
+
+* Python fundamentals
+* Variables and data types
+* Taking user input
+* Conditional statements
+* Loops
+* Basic problem solving
+* Functions
+* Lists and other Python data structures
+* Practice-based programming questions
+
+> Each program is written with the intention of understanding **how and why the code works**, not just getting the output.
+
+---
 
 ## 📂 Repository Structure
 
 ```text
-SESSION-07/
+Session-7/
 │
-├── CW/
-│   └── Classwork
+├── 📁 Programs/
+│   ├── program1.py
+│   ├── program2.py
+│   └── ...
 │
-├── HW/
-│   └── Homework
+├── 📁 Practice/
+│   └── ...
 │
 └── README.md
 ```
 
-## 🎯 Learning Objective
+The exact files and folders may vary as more programs are added during the learning process.
 
-The objective of this session is to:
+---
 
-- Improve independent problem-solving skills
-- Understand the logic behind programming solutions
-- Use AI for hints, explanations, and debugging
-- Avoid directly copying complete AI-generated solutions
-- Practice writing and understanding code independently
+## 💡 My Approach
 
-## 🤖 AI Usage Philosophy
+Instead of treating programming as a collection of syntax, I'm using these sessions to build a stronger problem-solving mindset.
 
-> **AI should be used as a hint, not as a solution.**
+For every problem, I try to follow:
 
-AI can be useful for:
-
-- Understanding concepts
-- Finding logical mistakes
-- Getting hints when stuck
-- Debugging errors
-- Understanding alternative approaches
-
-However, the final solution should be **understood and implemented independently**.
-
-## 📁 Contents
-
-### CW — Classwork
-
-Contains the problems, programs, and activities completed during the classroom session.
-
-### HW — Homework
-
-Contains the homework tasks and their corresponding solutions/submissions.
-
-## 🛠️ Technologies
-
-Depending on the individual task, this repository may contain programming exercises using:
-
-- C++
-- HTML
-- CSS
-- JavaScript
-- Other programming tools covered during the session
-
-## 🚀 How to Use
-
-Clone the repository:
-
-```bash
-git clone https://github.com/mohitjangid187/SESSION-07.git
+```text
+Understand the Problem
+        ↓
+Break it into Smaller Steps
+        ↓
+Write the Logic
+        ↓
+Implement in Python
+        ↓
+Test the Program
+        ↓
+Improve the Solution
 ```
 
-Navigate to the project:
+This approach helps turn individual coding exercises into actual programming skills.
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
 
 ```bash
-cd SESSION-07
+git clone https://github.com/26kanishkakhandelwal/Session-7.git
 ```
 
-Open the `CW` or `HW` folder to access the respective work.
+### 2. Open the project
 
-## 👨‍💻 Author
+```bash
+cd Session-7
+```
 
-**Mohit Jangid**
+### 3. Run a Python file
 
-GitHub:  
-https://github.com/mohitjangid187
+```bash
+python filename.py
+```
 
-## 📌 Repository
+If your system uses `python3`:
 
-[SESSION
+```bash
+python3 filename.py
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose                    |
+| ---------- | -------------------------- |
+| 🐍 Python  | Programming                |
+| 💻 VS Code | Code Editor                |
+| 🔗 Git     | Version Control            |
+| 🐙 GitHub  | Repository & Collaboration |
+
+---
+
+## 🎯 Learning Goals
+
+Through these practice sessions, I'm working towards:
+
+* Writing cleaner Python programs
+* Improving logical thinking
+* Understanding programming fundamentals
+* Becoming comfortable with problem solving
+* Building consistency through regular coding
+* Developing a strong foundation for Data Structures & Algorithms
+
+---
+
+## 📈 Progress
+
+This repository is part of my ongoing programming journey.
+
+**Learning → Practicing → Building → Improving**
+
+Every small program is another step towards becoming a better developer.
+
+---
+
+## 👩‍💻 Author
+
+**Kanishka Khandelwal**
+
+B.Tech CSE Student
+JECRC University
+
+* GitHub: [@26kanishkakhandelwal](https://github.com/26kanishkakhandelwal)
+* LinkedIn: [Kanishka Khandelwal](https://www.linkedin.com/in/kanishka-khandelwal-32662b310/)
+
+---
+
+### ⭐ Keep Learning. Keep Building. Keep Debugging.
+
+> *“The best way to learn programming is to write programs.”*
+
